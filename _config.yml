@@ -1,16 +1,28 @@
-layout_spectrum: 0.376299005234614
-typography_spectrum: 0.709083644207567
+layout_spectrum: 0.9531915
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/14d0fe62-e1ee-4a54-83f9-60681069ffbc.gif
+name: b-12 on the floor
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.806383
 color:
   brandStrength: 0.7425010444130749
-  lightness: 0.33802504977211356
-  saturation: 0.5731765574309975
-  rhythmicContrast: 0.2740615897346288
+  lightness: 0.6361702
+  saturation: 1
+  rhythmicContrast: 0.5021276
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-name: b-12 on the floor
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/14d0fe62-e1ee-4a54-83f9-60681069ffbc.gif
