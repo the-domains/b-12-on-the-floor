@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[b-12 on the floor]]></title>
         <description><![CDATA[b-12 on the floor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/b-12-on-the-floor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 01:01:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 01:01:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/b-12-on-the-floor/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad476685-a95c-43ec-abf2-f47cc2361c30.jpg">]]></description>
+            <link>https://thegrid.ai/b-12-on-the-floor/e5da9f02-5559-4f04-88ee-ed33e6b1750e/index.html</link>
+            <guid isPermaLink="false">e5da9f02-5559-4f04-88ee-ed33e6b1750e</guid>
+            <pubDate>Thu, 30 Jun 2016 01:01:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/868c393b-b6d0-4e7b-94cd-fc16d9d8f07c.jpg">]]></description>
-            <link>undefinedc439e898-d975-490f-a5d3-b0f03aa22f46/index.html</link>
+            <link>https://thegrid.ai/b-12-on-the-floor/c439e898-d975-490f-a5d3-b0f03aa22f46/index.html</link>
             <guid isPermaLink="false">c439e898-d975-490f-a5d3-b0f03aa22f46</guid>
             <pubDate>Thu, 30 Jun 2016 01:01:13 GMT</pubDate>
         </item>
